@@ -1,2 +1,4 @@
 Nombre autor: Jesus Nieto
 Email autor: a_jesniepav@iestriana.com
+Nombre colaborador: Jesus Nieto (cuenta colaborador)
+Email colaborador: jesus12.jnp@gmail.com
